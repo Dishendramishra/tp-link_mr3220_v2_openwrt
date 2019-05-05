@@ -130,7 +130,7 @@ upgraded flash rom
 
 Checking results:
 
-![](/home/dishendra/Desktop/tp-link_mr3220_v2_openwrt/images/lede.PNG)
+![](./images/lede.PNG)
 
 
 
