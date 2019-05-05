@@ -72,7 +72,7 @@ Then I used esptool to write the flash rom.
 
 ### 	2.1 Desoldering ROM Flash
 
- 	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8pIpidCmN0/0.jpg)](https://www.youtube.com/watch?v=8pIpidCmN0)
+ 	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HK6asb6tgdE/0.jpg)](https://www.youtube.com/watch?v=HK6asb6tgdE)
 
 
 
