@@ -86,31 +86,31 @@ Then I used esptool to write the flash rom.
 
 step1: Checking flash_id
 
-![](/home/dishendra/Desktop/tp-link_mr3220_v2_openwrt/images/1.PNG)
+![](./images/1.PNG)
 
 
 
 step2: erasing flash
 
-![image](/home/dishendra/Desktop/tp-link_mr3220_v2_openwrt/images/2.PNG)
+![image](./images/2.PNG)
 
 
 
 step 3: writing u-boot
 
-![image](/home/dishendra/Desktop/tp-link_mr3220_v2_openwrt/images/3.PNG)
+![image](./images/3.PNG)
 
 
 
 step 4: writing firmware staring after 128kB (u-boot is 128kB in size) hence used offset 0x20000
 
-![image](/home/dishendra/Desktop/tp-link_mr3220_v2_openwrt/images/4.PNG)
+![image](./images/4.PNG)
 
 
 
 step 5: art partition is located at last 64kB of flash rom, hence used offset 0xFF0000
 
-![image](/home/dishendra/Desktop/tp-link_mr3220_v2_openwrt/images/5.PNG)
+![image](./images/5.PNG)
 
 
 
